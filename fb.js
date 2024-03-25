@@ -8,7 +8,7 @@ import {getDatabase, ref, push, onValue, set, get, child} from "https://www.gsta
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBKNB3vnrvJRF1uY1x-qBL-7YWl71lkFDY",
+    apiKey: API_KEY,
     authDomain: "fir-test-1b571.firebaseapp.com",
     databaseURL: "https://fir-test-1b571-default-rtdb.firebaseio.com",
     projectId: "fir-test-1b571",
